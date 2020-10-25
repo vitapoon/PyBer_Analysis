@@ -31,6 +31,6 @@ Based on the results listed above, there are three different recommendations to 
 We should attract more drivers by showing that on average they can make more per ride compared to the other city types.
 
 2,Suburban cities are in the middle having the 2nd most drivers, rides and total fares.
- We should attract more drivers by showing they have the most consistent fares compared to the other city types.
+ We should attract more drivers by showing they have the most stable fares compared to the other city types.
 
 3,Oppisite to rural and suburban city types, the Urban cities command the most drivers, rides and fares, they have the lowest average of fare per ride and fare per driver. Therefore we should attract more riders by showing that on average their fares are the lowest of any city type.
